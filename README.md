@@ -1,2 +1,2 @@
 # ttvoucher
-THÔNG TIN VOUCHER
+TRA CỨU THÔNG TIN
